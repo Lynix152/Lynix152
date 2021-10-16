@@ -1,5 +1,8 @@
 ### Lynix-Dev
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 Hi, I'm Lynix, or with civil name Mathias. I am 14 years old. My interests are music and computer science. 
 I play saxophone and once played accordion. In IT I am mainly interested in programming. 
 However, I am also interested in artificial intelligence and server administration. 
