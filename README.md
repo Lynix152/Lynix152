@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynix152&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Hi, I'm Lynix, or with civil name Mathias. I am 14 years old. My interests are music and computer science. 
+Hi, I'm Lynix, or with civil name Mathias. I am 13 years old. My interests are music and computer science. 
 I play saxophone and once played accordion. In IT I am mainly interested in programming. 
 However, I am also interested in artificial intelligence and server administration. 
 
