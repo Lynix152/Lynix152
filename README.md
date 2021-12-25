@@ -2,7 +2,7 @@
 
 ![Lynix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lynix152&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynix152/compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynix152)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi, I'm Lynix, or with civil name Mathias. I am 13 years old. My interests are music and computer science. 
 I play saxophone and once played accordion. In IT I am mainly interested in programming. 
