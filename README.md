@@ -18,7 +18,3 @@
 <p align="center">
 <a href="https://github.com/Lynix152">Lynix152</a>
 </p>
-
-<p align="center">
-<a href="http://example.com">Website</a>
-</p>
