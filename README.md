@@ -1,7 +1,7 @@
-Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mathias
+Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ===============================================================================================================================
 
-Student and Developer
+I'm Mathias, a Student and Nerd
 ---------------------
 
 I'm a passionate student whose hobby is programming. I have a strong focus on Operating Systems, data science, and machine learning. I thrive on creating innovative solutions and contributing to open-source projects, constantly seeking to expand my skills and knowledge in the tech field.
