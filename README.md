@@ -4,7 +4,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Student and Developer
 ---------------------
 
-I am a passionate software developer with a strong focus on Operating Systems, data science and machine learning. I thrive on creating innovative solutions and contributing to open-source projects, constantly seeking to expand my skills and knowledge in the tech field.
+I'm a passionate student whose hobby is programming. I have a strong focus on Operating Systems, data science, and machine learning. I thrive on creating innovative solutions and contributing to open-source projects, constantly seeking to expand my skills and knowledge in the tech field.
 
 * 🌍  - based in Germany
 * 🖥️  - [Website](http://WaMathias.github.com)
