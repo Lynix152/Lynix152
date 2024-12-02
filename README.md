@@ -6,10 +6,6 @@ I'm Mathias
 
 I'm a passionate student whose hobby is programming. I have a strong focus on Operating Systems, data science, and machine learning. I thrive on creating innovative solutions and contributing to open-source projects, constantly seeking to expand my skills and knowledge in the tech field.
 
-* 🌍  - based in Germany
-* 🖥️  - [Website](http://WaMathias.github.com)
-* 🧠  - currently learning Rust-lang and things about CPU with an [Instruction Set Simulator](www.github.com/WaMathias/InstructionSetSimulator") and maybe other upcoming projects
-  
 I'm always eager to collaborate and learn from others in the tech community. Feel free to reach out to me for potential collaborations, discussions, or just to connect!
 
 <a href="https://www.github.com/WaMathias" target="_blank" rel="noreferrer"><img
